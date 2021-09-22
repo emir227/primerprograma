@@ -1,0 +1,46 @@
+
+body
+{
+    background-image:url("https://static3.depositphotos.com/1007531/227/i/600/depositphotos_2278538-stock-photo-red-circular-wide.jpg") ;
+    color:blanchedalmond;
+    font-size: large;
+    text-align:center;
+}
+
+
+
+#navegador ul{
+    list-style-type: none;
+    text-align: center;
+ }
+ 
+ #navegador li{
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+ }
+ 
+ #navegador li a {
+    padding: 2px 7px 2px 7px;
+    color: #666;
+    background-color: #eeeeee;
+    border: 1px solid #ccc;
+    text-decoration: none;
+ }
+table
+{
+    background-image:url(https://img.freepik.com/vector-gratis/lamina-oro-fondo-dorado-metal-holografico_186921-52.jpg?size=626&ext=jpg) ;
+    width: 1400px;
+    height: 50px;
+    text-align: center;
+
+}
+
+div{
+    color:beige ;
+    background-image: url(https://media.istockphoto.com/photos/green-metallic-rough-and-noise-glitter-art-foil-texture-polished-picture-id1201729727?k=20&m=1201729727&s=170667a&w=0&h=ebuZdcMQbTWtffgwmdWmeoOfn8CixgtoG0t9jq-9Cig=) ;
+    width: 1400px;
+    height: 55px;
+    text-align: center
+}
+
